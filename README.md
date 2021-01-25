@@ -1,5 +1,9 @@
-# Algorithm-sol
-✌🏼꾸준히 알고뤼듬✌🏼
+### [Algorithm Practice 👩🏻‍💻 🍎]
 
-1. 알고리즘 문제풀이 
-2. SQL 문제풀이 
+#### * 알고리즘 문제풀이 
+  - 백준 : https://www.acmicpc.net/
+  - 프로그래머스 : https://programmers.co.kr/
+<br>
+
+* SQL 문제풀이 
+  - 프로그래머스 : https://programmers.co.kr/learn/challenges
