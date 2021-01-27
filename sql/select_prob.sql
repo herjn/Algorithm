@@ -1,9 +1,10 @@
+[Select , Order 문제] - Level 1 
+
 # 모든 레코드 조회 문제
 /*SELECT * 를 통해 ANIMAL_INS의 모든 컬럼 조회
 ANIMAL_ID 순으로.*/
 SELECT * FROM ANIMAL_INS 
 ORDER BY ANIMAL_ID
-
 
 #역순 정렬 문제
 /* name과 datetime 가져오고 ANIMAL_ID 순을 역순으로.*/
