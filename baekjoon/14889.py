@@ -16,9 +16,9 @@ def dfs(idx, cnt):
         ans = min(ans, abs(start-link))
 
     for i in range(idx, n):
-        if select[i]:
+        if select[i]: #값이 있으면 패스
             continue
-        select[i] = 1
+        select[i] = 1 #값이 없으면 1로 채워줌
         dfs(i+1, cnt+1)
         select[i] = 0
 
@@ -28,6 +28,7 @@ select=[0 for _ in range(n)]
 a=[]
 for _ in range(n):
     a.append(list(map(int,input().split())))
+
 ans = sys.maxsize
 dfs(0,0)
 print(ans)
