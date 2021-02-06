@@ -1,9 +1,11 @@
 #연구소
-import sys,copy
+
+import sys
+import copy
 from  collections import deque
 
-dx = [1, -1, 0, 0]
-dy = [0, 0, 1, -1]
+dx = [1,-1,0,0]
+dy = [0,0,1,-1]
 
 def virus():
     global safe
@@ -18,7 +20,7 @@ def virus():
         for i in range(4):
             ax=x+dx[i]
             ay=y+dy[i]
-            if ax<n and ay<m:
+            if 0<=ax<n and 0<=ay<m:
                 if vboard[ax][ay]==0:
                     vboard[ax][ay]=2
                     virus_list.append([ax,ay])
