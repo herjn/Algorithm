@@ -32,7 +32,6 @@ bfs(v)
 
 #인접리스트로 그래프 구현
 import sys 
-input = sys.stdin.readline 
 from collections import deque 
 
 def dfs(graph, v):
@@ -54,8 +53,9 @@ def bfs(graph, v):
             visited.append(n)
             queue += graph[n]
             return visited
-            
-n,m,v = map(int, input().split())
+
+input = sys.stdin.readline            
+n,m,v = map(int,input().split())
 graph = {i:[] for i in range(1,n+1)}
 
 for i in range(1, m+1):
@@ -66,7 +66,5 @@ for i in range(1, m+1):
 for key in graph:
     graph[key].sort()
 
-
 print(' '.join(list(map(str,dfs(graph, v)))))
-
 print(' '.join(list(map(str,bfs(graph, v)))))
