@@ -1,6 +1,8 @@
-### [Algorithm Practice 👩🏻‍💻 🍎]
+### Algorithm Practice 👩🏻‍💻 
 
-- Gold  문제들만 올립니다 
+- Gold Level 이상 문제들만 Upload
+
+---
 
 * 알고리즘 문제풀이 
   - 백준 : https://www.acmicpc.net/
