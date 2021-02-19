@@ -1,3 +1,4 @@
+#가장 큰 증가 부분 수열4
 n=int(input())
 long=list(map(int,input().split()))
 
