@@ -1,4 +1,4 @@
-#N과 M 시리즈 (1) -15649
+#[N과 M 시리즈 (1)]- Silver 3
 
 #permutation을 이용해서 푼 풀이
 from itertools import permutations

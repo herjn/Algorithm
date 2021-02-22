@@ -1,4 +1,6 @@
-#인접행렬로 그래프 구현
+#[DFS와 BFS]- Silver 1
+
+#1.인접행렬로 그래프 구현
 n,m,v=map(int,input().split())
 matrix=[[0]*(n+1) for _ in range(n+1)]
 visited=[False]*(n+1)
@@ -30,7 +32,7 @@ print()
 bfs(v)
 
 
-#인접리스트로 그래프 구현
+#2.인접리스트로 그래프 구현
 import sys 
 from collections import deque 
 

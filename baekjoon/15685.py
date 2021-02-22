@@ -1,6 +1,7 @@
-#시뮬레이션
+#[드래곤 커브]- Gold 4
 import sys
 input = sys.stdin.readline
+
 dx = [1,0,-1,0]
 dy = [0,-1,0,1]
 

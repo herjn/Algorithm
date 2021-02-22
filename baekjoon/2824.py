@@ -1,3 +1,4 @@
+#[최대 공약수]- Gold 5
 import sys
 from sys import stdin
 

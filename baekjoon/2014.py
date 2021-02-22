@@ -1,3 +1,4 @@
+#[소수의 곱]- Gold 2
 import heapq
 
 if __name__ == '__main__':

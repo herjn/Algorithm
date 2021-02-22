@@ -1,3 +1,5 @@
+#[광고]- Platinum 5
+
 #KMP 알고리즘
 def advertise(pattern):
     table=[0]*l

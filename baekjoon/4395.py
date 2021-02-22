@@ -1,3 +1,4 @@
+#[Steps]- Silver 1
 import sys
 import math
 

@@ -1,4 +1,5 @@
-#이게골드3문제라니
+#[저울]- Gold 3
+
 n=int(input())
 s=list(map(int, input().split()))
 s.sort()

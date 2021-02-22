@@ -1,3 +1,4 @@
+#[암호 만들기]- Gold 5
 import sys
 from itertools import combinations
 

@@ -1,3 +1,5 @@
+#[미세먼지 안녕!]- Gold 5
+
 # 공기청정기 위치 파악
 def air_position():
     for i in range(R):

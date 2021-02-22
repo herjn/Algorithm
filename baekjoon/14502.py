@@ -1,5 +1,4 @@
-#연구소
-
+#[연구소]- Gold 5
 import sys
 import copy
 from  collections import deque

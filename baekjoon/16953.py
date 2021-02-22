@@ -1,5 +1,6 @@
-#A를 B로!
+#[A를 B로]- Silver 1
 from collections import deque
+
 a,b=map(int,input().split())
 ans=-1
 q=deque([(a,1)])

@@ -1,3 +1,4 @@
+#[오르막 수]- Silver 1
 n=int(input())
 matrix=[[0]*10 for _ in range(n)]
 matrix[0]=[1 for _ in range(10)]

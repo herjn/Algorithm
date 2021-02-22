@@ -1,3 +1,5 @@
+#[가장 큰 정사각형]- Gold 5
+
 n,m=map(int,input().split())
 rect=[]
 

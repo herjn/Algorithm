@@ -1,3 +1,4 @@
+#[아기상어]-Gold 4
 from collections import deque
 
 dx = [-1, 0, 0, 1]

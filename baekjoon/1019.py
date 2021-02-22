@@ -1,3 +1,4 @@
+#[책 페이지]- Gold 1
 n=int(input())
 num=[0 for i in range(10)]
 point=1
@@ -18,5 +19,6 @@ while n!=0:
     num[0]-=point
     point*=10
     n//=10
-for i in s:
+
+for i in num:
     print(i,end=' ')

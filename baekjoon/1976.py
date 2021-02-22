@@ -1,3 +1,4 @@
+#[여행 가자]- Gold 5 
 import sys
 max=sys.maxsize
 

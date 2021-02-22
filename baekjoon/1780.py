@@ -1,3 +1,4 @@
+#[종이의 개수]- Silver 2
 n=int(input())
 paper = [list(map(int, input().split())) for _ in range(n)]
 one,zero,minus=0,0,0

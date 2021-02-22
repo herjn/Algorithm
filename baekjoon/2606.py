@@ -1,4 +1,6 @@
-#DFS로 풀기
+#[바이러스]-Silver 3
+
+# DFS로 풀기
 import sys
 input = sys.stdin.readline
 com=int(input()); con=int(input())

@@ -1,5 +1,6 @@
-#dfs로 풀기
+#[스타트와 링크]- Silver 3
 
+#dfs로 풀기
 import sys
 input = sys.stdin.readline
 

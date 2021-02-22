@@ -1,3 +1,4 @@
+#[떡 먹는 호랑이]- Silver1
 import sys
 d,k=map(int, sys.stdin.readline().split())
 pre,curr=0,1

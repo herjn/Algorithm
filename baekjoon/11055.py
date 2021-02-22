@@ -1,3 +1,5 @@
+#[가장 큰 증가 부분 수열]- Silver 3
+
 n=int(input())
 arr=list(map(int,input().split()))
 

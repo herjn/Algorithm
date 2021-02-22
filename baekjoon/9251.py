@@ -1,4 +1,4 @@
-#LCS
+#[LCS]- Gold 5
 import sys
 a=sys.stdin.readline().strip().upper()
 b=sys.stdin.readline().strip().upper()
