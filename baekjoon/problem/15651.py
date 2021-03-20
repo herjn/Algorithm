@@ -1,5 +1,5 @@
 #[N과 M(3)]- Silver 3
-##1부터 N까지 자연수 중에서 같은 수 여러번 가능 M개를 고른 수열
+#1부터 N까지 자연수 중에서 같은 수 여러번 가능 M개를 고른 수열
 import sys
 n,m=map(int,sys.stdin.readline().split())
 exit=[]

@@ -21,6 +21,7 @@ for test in range(1, T+1):
     for a,b in res:
         graph[a].append(b)
         graph[b].append(a)
+    print(graph)
     for i in range(N):
         dfs(i,0)
 

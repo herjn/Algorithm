@@ -2,7 +2,7 @@
 
 #dfs로 풀기
 import sys
-input = sys.stdin.readline
+input=sys.stdin.readline
 
 def dfs(idx, cnt):
     global ans
